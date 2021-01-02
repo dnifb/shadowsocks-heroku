@@ -1,5 +1,5 @@
 {
-  "server": "onplus.herokuapp.com",
+  "server": "dnifb.herokuapp.com",
   "local_address": "127.0.0.1",
   "scheme": "ws",
   "local_port": 1080,
